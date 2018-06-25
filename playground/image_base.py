@@ -1,5 +1,6 @@
 # coding=utf-8
 """
+参考： http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html
 图片读取， 显示， 保存
 
 opencv 读取图片的格式为 BGR
